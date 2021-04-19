@@ -1,0 +1,26 @@
+.paper {
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 5px;
+
+}
+
+.big {
+    width: 300px;
+    height: 450px;
+    box-shadow: 0 6px 12px 0 rgba(0, 0, 0, 0.7), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.default {
+    width: 200px;
+    height: 300px;
+}
+
+.itemname {
+    font-weight: 600;
+    font-size: 18px;
+}

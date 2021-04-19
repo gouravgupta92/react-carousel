@@ -1,0 +1,105 @@
+[{
+    "productId":"1",
+    "name": "V-Neck T-Shirt",
+    "price": "50",
+    "category":"fashion",
+    "img":"tshirt.jpg"
+},
+{
+    "productId":"2",
+    "name": "Hoodie",
+    "price": "100",
+    "category":"fashion",
+    "img":"hoodie.jfif"
+},
+{
+    "productId":"3",
+    "name": "Samsung S10",
+    "price": "150",
+    "category":"mobile",
+    "img":"s10.jpg"
+},
+{
+    "productId":"4",
+    "name": "Sony Bravia TV 42 Inch",
+    "price": "150",
+    "category":"electronics",
+    "img":"sonytv.jpg"
+},
+{
+    "productId":"5",
+    "name": "Mi 10",
+    "price": "150",
+    "category":"mobile",
+    "img":"mi10.jpg"
+},
+{
+    "productId":"6",
+    "name": "Belt",
+    "price": "150",
+    "category":"fashion",
+    "img":"belt.jpg"
+},
+{
+    "productId":"7",
+    "name": "LG Refrigerator",
+    "price": "100",
+    "category":"electronics",
+    "img":"lgfridge.jpg"
+},
+{
+    "productId":"8",
+    "name": "Sunglasses",
+    "price": "50",
+    "category":"fashion",
+    "img":"sunglasses.jpg"
+},
+{
+    "productId":"9",
+    "name": "One Plus 9",
+    "price": "100",
+    "category":"mobile",
+    "img":"one9.jpeg"
+},
+{
+    "productId":"10",
+    "name": "Havells Geyser",
+    "price": "100",
+    "category":"electronics",
+    "img":"hevellsgeyser.jpg"
+},
+{
+    "productId":"11",
+    "name": "Cap",
+    "price": "100",
+    "category":"fashion",
+    "img":"cap.jpeg"
+},
+{
+    "productId":"12",
+    "name": "Iphone 11",
+    "price": "50",
+    "category":"mobile",
+    "img":"i11.jpg"
+},
+{
+    "productId":"13",
+    "name": "Motorola 10",
+    "price": "50",
+    "category":"mobile",
+    "img":"m10.jpg"
+},
+{
+    "productId":"14",
+    "name": "Samsung Washing Machine",
+    "price": "50",
+    "category":"electronics",
+    "img":"samsungwm.jfif"
+},
+{
+    "productId":"15",
+    "name": "Bosch Dishwasher",
+    "price": "150",
+    "category":"electronics",
+    "img":"bdish.jpg"
+}]
