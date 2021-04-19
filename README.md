@@ -6,3 +6,4 @@ To run the project, please follow below steps:
 2. Go to dir `react-carousel`
 3. do `npm install`
 4. start app using `npm start`
+5. open `http://localhost:3000` in browser
